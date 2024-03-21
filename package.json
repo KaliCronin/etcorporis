@@ -1,0 +1,27 @@
+{
+  "name": "etcorporis",
+  "version": "1.0.0",
+  "description": "Large collection of Node JS functions, regexps and extras",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaliCronin/etcorporis.git"
+  },
+  "author": "MagnoliaWyman",
+  "license": "MIT",
+  "dependencies": {
+    "@paralleldrive/cuid2": "^2.2.2",
+    "bcryptjs": "^2.4.3",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21",
+    "shelljs": "^0.8.5",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "jest": "~29.7.0"
+  },
+  "homepage": "https://github.com/KaliCronin/etcorporis.git"
+}
